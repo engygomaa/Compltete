@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="finalui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/finalui.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
